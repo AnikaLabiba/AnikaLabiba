@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anika Labiba Jahin.
 - 👀 I’m interested in Software Development and Coding.
-- 🌱 I’m currently learning PHP and Laravel.
+- 🌱 I’m currently learning Font-end development using Javascript and React.
 
 
 
